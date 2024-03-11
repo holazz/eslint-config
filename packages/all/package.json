@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/holazz/eslint-config.git",
+    "url": "https://github.com/holazz/eslint-config.git",
     "directory": "packages/all"
   },
   "keywords": [],
